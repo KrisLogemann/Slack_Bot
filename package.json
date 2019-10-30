@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
-    "eslint": "^3.17.1",
+    "eslint": "^6.6.0",
     "eslint-config-loopback": "^8.0.0",
     "parcel-bundler": "^1.12.3"
   },
